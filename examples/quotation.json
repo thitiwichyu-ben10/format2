@@ -1,0 +1,29 @@
+{
+  "quotation_number": "QT-2026-001",
+  "quotation_date": "07/11/2026",
+  "valid_until": "21/11/2026",
+  "subject": "ตัวอย่างใบเสนอราคา",
+  "customer": {
+    "name": "ชื่อลูกค้าตัวอย่าง",
+    "address": "ที่อยู่ลูกค้า",
+    "tax_id": "",
+    "contact": "",
+    "phone": "",
+    "email": ""
+  },
+  "items": [
+    {
+      "description": "รายการสินค้า/บริการตัวอย่าง",
+      "quantity": 2,
+      "unit": "งาน",
+      "unit_price": 10000
+    }
+  ],
+  "discount": 0,
+  "vat_rate": 7,
+  "vat_included": false,
+  "payment_terms": "ชำระภายใน ... วัน",
+  "delivery_terms": "",
+  "notes": "ราคานี้มีผลตามวันที่ระบุในใบเสนอราคา",
+  "currency": "THB"
+}
